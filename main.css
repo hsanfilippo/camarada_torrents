@@ -1,0 +1,92 @@
+.container h2 {
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+header {
+    position: sticky;
+    top: 0;
+    left: 0;
+    background-color: #fff;
+}
+
+header nav {
+    text-align: center;
+}
+
+header h1 {
+    color: #1aad64;
+}
+
+.nav-pills .nav-link.active {
+    background-color:  #1aad64;
+    color: #fff;
+    font-weight: bold;
+}
+
+.card {
+    height: 100%;
+    text-align: center;
+    padding-bottom: 15px;
+    margin-bottom: 20px;
+}
+
+.card p {
+    text-align: center;
+    padding: 10px;
+}
+
+.card a {
+    margin-top: 10px;
+}
+
+.card-subtitle {
+    background-color:rgb(43, 43, 43);
+    color: #ffa620;
+    max-width: 35%;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.card .btn {
+    max-width: 90%;
+    width: 90%;
+    align-self: center;
+}
+
+.link-carousel {
+    color: #fff;
+    text-decoration: none;
+    text-shadow: 3px 3px rgb(0, 0, 0, 0.5);
+}
+
+footer {
+    background-color: #1aad64;
+    color: #fff;
+    height: 240px;
+    margin-top: 70px;
+    padding: 30px;
+    text-align: center;
+}
+
+footer .logo {
+    height: 30px;
+}
+
+section {
+    padding-top: 20px;
+}
+
+footer h6 {
+    margin-bottom: 20px;
+}
+
+footer a {
+    text-decoration: none;
+}
+
+footer img {
+    margin-bottom: 20px;
+    margin-right: 20px;
+    cursor: pointer;
+}
