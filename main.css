@@ -14,8 +14,8 @@ header nav {
     text-align: center;
 }
 
-header h1 {
-    color: #1aad64;
+header img {
+    max-width: 100%;
 }
 
 .nav-pills .nav-link.active {
